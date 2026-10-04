@@ -1,4 +1,4 @@
-<h1 align="center">Personalized Credit Decision Support System</h1>
+<h1 align="center">Personalized Decision Support System Using Banking Revenue Data</h1>
 <p align="center">
   A loan default prediction pipeline and Streamlit app with role based portals for customers and underwriters.
 </p>
