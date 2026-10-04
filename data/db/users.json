@@ -1,0 +1,18 @@
+[
+  {
+    "username": "staff01",
+    "name": "Nhân viên Thẩm định",
+    "role": "staff",
+    "email": "underwriter@bank.local",
+    "password_hash": "pbkdf2_sha256$200000$BKlJQcTXdZHz80q0obuJyw==$LZgOq220LH0YjRyeRsJck5d+jqBmC4qNqw5Ws6tkhuc=",
+    "created_at": "2026-05-31T11:19:47.513739+00:00"
+  },
+  {
+    "username": "customer01",
+    "name": "Nguyễn Văn An",
+    "role": "customer",
+    "email": "an.nguyen@example.com",
+    "password_hash": "pbkdf2_sha256$200000$do7DsOLyd6A34x4FslCsrA==$/Sqz5KDomA57KQNMQxD06xRcBLKRGc3Bxr/tm0BJETc=",
+    "created_at": "2026-05-31T11:19:47.647338+00:00"
+  }
+]

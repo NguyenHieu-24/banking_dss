@@ -1,0 +1,340 @@
+[
+  {
+    "app_id": "9ccdd709d2ee",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 30,
+      "person_income": 50000,
+      "person_home_ownership": "MORTGAGE",
+      "loan_amnt": 10000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 10.5,
+      "credit_score": 650,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-05-31T11:22:38.550436+00:00"
+  },
+  {
+    "app_id": "a131e16ed937",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 30,
+      "person_income": 50000,
+      "person_home_ownership": "MORTGAGE",
+      "loan_amnt": 10000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 10.5,
+      "credit_score": 650,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-05-31T11:28:25.442943+00:00"
+  },
+  {
+    "app_id": "d7ed68d6c426",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 23,
+      "person_income": 139000,
+      "person_home_ownership": "RENT",
+      "loan_amnt": 35000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 7.9,
+      "credit_score": 583,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T12:47:22.750553+00:00"
+  },
+  {
+    "app_id": "d42f33471564",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 90000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 35000,
+      "loan_intent": "EDUCATION",
+      "loan_int_rate": 15.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:01:32.193979+00:00"
+  },
+  {
+    "app_id": "83154765dc87",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 90000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "EDUCATION",
+      "loan_int_rate": 15.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:02:08.123579+00:00"
+  },
+  {
+    "app_id": "c43daf1f3d82",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 100000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "EDUCATION",
+      "loan_int_rate": 15.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:02:28.850959+00:00"
+  },
+  {
+    "app_id": "fafb804f42bc",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 100000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "MEDICAL",
+      "loan_int_rate": 11.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:03:24.835353+00:00"
+  },
+  {
+    "app_id": "25e588c7874f",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 100000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "PERSONAL",
+      "loan_int_rate": 11.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:03:33.910010+00:00"
+  },
+  {
+    "app_id": "c55ba7bfa37f",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 100000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "PERSONAL",
+      "loan_int_rate": 11.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-01T13:04:32.427374+00:00"
+  },
+  {
+    "app_id": "2a259494c32e",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 32,
+      "person_income": 50000,
+      "person_home_ownership": "MORTGAGE",
+      "loan_amnt": 10000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 10.5,
+      "credit_score": 650,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-22T01:49:51.803504+00:00"
+  },
+  {
+    "app_id": "08f61b6945b4",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 23,
+      "person_income": 139000,
+      "person_home_ownership": "RENT",
+      "loan_amnt": 35000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 7.9,
+      "credit_score": 583,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": false,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-22T02:00:50.395844+00:00"
+  },
+  {
+    "app_id": "3b492a1964a9",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 27,
+      "person_income": 100000,
+      "person_home_ownership": "OWN",
+      "loan_amnt": 20000,
+      "loan_intent": "PERSONAL",
+      "loan_int_rate": 11.0,
+      "credit_score": 561,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-22T02:21:54.315054+00:00"
+  },
+  {
+    "app_id": "a246189f5f60",
+    "owner": "customer01",
+    "applicant": {
+      "name": "Nguyễn Văn An",
+      "phone": "",
+      "national_id": "",
+      "email": ""
+    },
+    "features": {
+      "person_age": 30,
+      "person_income": 50000,
+      "person_home_ownership": "MORTGAGE",
+      "loan_amnt": 10000,
+      "loan_intent": "DEBTCONSOLIDATION",
+      "loan_int_rate": 10.5,
+      "credit_score": 650,
+      "previous_loan_defaults_on_file": "No"
+    },
+    "result": {
+      "eligible": true,
+      "self_service": true
+    },
+    "decision": "PENDING",
+    "created_at": "2026-06-22T07:29:24.631218+00:00"
+  }
+]
